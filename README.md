@@ -1,6 +1,6 @@
 # 👨‍💻 Sistema Bancário versao 2 
 
-Este projeto faz parte do segundo desafio de codigo do bootcamp : `Python AI Backend Developer da Dio`
+Este projeto faz parte do segundo desafio de codigo do bootcamp : `Python AI Backend Developer` da Dio
 
 
 ## 📋 Funcionalidades Principais
